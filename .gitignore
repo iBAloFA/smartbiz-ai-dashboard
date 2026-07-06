@@ -1,0 +1,14 @@
+# Ignore Secret Keys
+.streamlit/secrets.toml
+.env
+
+# Ignore Virtual Environments
+venv/
+.venv/
+.mybizai/
+env/
+
+# Ignore Python Cache Files
+__pycache__/
+*.pyc
+.pytest_cache/
