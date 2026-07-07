@@ -4,7 +4,7 @@
 * **Track:** AI for Business & Productivity  
 * **Participant ID:** BF-0540  
 * **Developer:** Solo Creator  
-* **Live Deployment App:** [Insert Streamlit Share URL Here]  
+* **Live Deployment App:** https://smartbiz-ai.streamlit.app  
 
 ---
 
